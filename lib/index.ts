@@ -49,7 +49,6 @@ function getProtoType(value: any): string {
         }
 
         if (len > 0) {
-          console.log('typeof value[0]: ', typeof value[0]);
           switch (typeof value[0]) {
             case "string":
               return `repeated string`;
