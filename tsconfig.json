@@ -94,7 +94,7 @@
   },
   "include": [
     "lib/**/*"
-, "example"  ],
+  ],
   "exclude": [
     "node_modules"
   ]
