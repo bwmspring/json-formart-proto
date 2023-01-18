@@ -1,0 +1,7 @@
+{
+  "rules": {
+    "align": [true, "elements", "members", "parameters", "statements"],
+    "max-line-length": [true, 120],
+    "import-name": [false]
+  }
+}
